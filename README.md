@@ -31,7 +31,7 @@
 最後剩1 2 4 5，四個韭菜
 
 
-<code>
+``
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -48,4 +48,4 @@ def cut_leeks(leeks=5, cuts=[[1,3], [3,5], [1,5]]):
     print(f'最後剩{remain}個韭菜')
     
 cut_leeks()
-</code>
+``
